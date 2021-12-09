@@ -1,3 +1,5 @@
+#Autora: Dyanna Cruz  
+
 #Exercício 1: Construir código em Python que possa calcular a média aritmética do aluno selecionado
 #e retornar no console se o mesmo está aprovado (média >= 5.0) ou reprovado. Mostrar no console todas
 #as notas do aluno selecionado → utilizar elif para selecionar o aluno.

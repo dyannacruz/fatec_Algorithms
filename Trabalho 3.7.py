@@ -1,3 +1,5 @@
+#Autora: Dyanna Cruz 
+
 # Criar arquivo módulo Python com uma função que recebe como argumentos os nomes de 6 alunos de uma lista e os respectivos valores das notas de“Algoritmos
 # e Introdução a Computação”, retornando as médias dos mesmos na disciplina. Na aplicação que chama a função do módulo é retornado no console os alunos e
 # suas respectivas médias. Considerar o tratamento de exceções para eventuais erros que ocorram na inserção de dados ou nos cálculos.

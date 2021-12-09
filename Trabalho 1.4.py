@@ -1,3 +1,5 @@
+#Autora: Dyanna Cruz  
+
 # Exercício 4: Um desenvolvedor de software para uma estação meteorológica tem que fazer a leitura das seguintes variáveis,
 #  para o dia corrente e dar previsões para o dia seguinte, conforme as condições: - variáveis:
 #→ Temperatura;

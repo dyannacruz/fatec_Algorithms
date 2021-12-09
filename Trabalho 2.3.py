@@ -1,3 +1,5 @@
+#Autora: Dyanna Cruz 
+
 #Exercício 3: Dado um teste de múltipla escolha com cinco questões, onde cada questão vale 1 ponto e as respostas corretas são: 
 #questão 1 = C, questão 2 = D, questão 3 = B, questão 4 = A e questão 5 = E. Escrever código Python que leia a resposta de cada 
 #questão inserida por um usuário e retorne o total de pontos do mesmo. Utilizar o laço while.

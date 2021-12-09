@@ -1,3 +1,5 @@
+#Autora: Dyanna Cruz 
+
 #Exercício 2: Construir código Python que mostre no console a tabuada de soma e divisão de um número, utilizando o laço while.
 
 #SOMA

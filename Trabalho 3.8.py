@@ -1,3 +1,5 @@
+#Autora: Dyanna Cruz 
+
 # Exercício 8: Simular através de código Python três jogadas consecutivas de um dado, retornando os valores no console.
 
 from random import randint

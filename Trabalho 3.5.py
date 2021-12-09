@@ -1,3 +1,5 @@
+#Autora: Dyanna Cruz 
+
 #Exercício 5: Utilizar a função range( ) para gerar duas listas, uma com os dez primeiros números pares e outra com os dez primeiros números ímpares.
 #Gerar uma terceira lista que corresponda a soma dos valores dos elementos correspondentes em cada uma das listas geradas anteriormente.
 #Números pares:

@@ -1,3 +1,5 @@
+#Autora: Dyanna Cruz 
+
 # Exercício 4: Criar uma função para remover da lista do exercício 2, depois de ordenada, os elementos pares,
 # imprimindo-os no console à medida que forem retirados da lista.
 

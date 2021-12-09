@@ -1,3 +1,5 @@
+#Autora: Dyanna Cruz 
+
 #Exercício 2: Dada a lista: [“de cinema)”, “que satisfaça o contexto“, “sequenciamento de listas“, ”para mostrar“, “a seqüência dos“, “no console“, “(para quem gosta“,
 # “contida na mesma“, “elementos da lista“, “Utilizar o“, “da frase“, “do significado“]: Construir código Python para que utlizando o fatiamento de listas possa transformá-la
 # na frase original: “Utilizar o sequenciamento de listas para mostrar no console a seqüência dos elementos da lista que satisfaça o contexto do significado da frase contida

@@ -1,3 +1,5 @@
+#Autora: Dyanna Cruz 
+
 # Exercício 6: Construir código Python que através de funções, identifique entre três valores numéricos do tipo float,
 # a serem inseridos pelo usuário através do console, o menor valor.
 

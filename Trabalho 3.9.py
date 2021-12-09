@@ -1,3 +1,5 @@
+#Autora: Dyanna Cruz 
+
 #Utilizando list comprehension, construir código em Python para gerar uma lista com os trinta primeiros números ímpares.
 
 #Solução para os 30 primeiros números

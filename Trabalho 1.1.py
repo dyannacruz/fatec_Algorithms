@@ -1,3 +1,5 @@
+#Autora: Dyanna Cruz 
+
 # Exercício 1: Exercício 1: Escrever código Python para testar os valores das variáveis A à F na tabela e mostraros resultados no
 # console, para a expressão: Inserir os valores pelo console.
 

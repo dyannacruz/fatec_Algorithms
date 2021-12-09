@@ -1,3 +1,5 @@
+#Autora: Dyanna Cruz 
+
 #Exercício 4: Criar uma lista que corresponda aos cinco nomes completos de alunos da aula de Algoritmos e Introdução à Computação; 
 #em sequência, criar lista para armazenar as respectivas idades destes alunos, e finalmente uma lista com as respectivas notas do 
 #1º bimestre nesta disciplina. Imprimir no console os respectivos nomes ao lado das idades e das notas.

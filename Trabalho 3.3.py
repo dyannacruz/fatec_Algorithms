@@ -1,3 +1,5 @@
+#Autora: Dyanna Cruz 
+
 # Exercício 3: Para a lista do exercício 2, determinar a dimensão da mesma e mostrar no console os elementos ímpares
 # depois da frase ordenada.
 

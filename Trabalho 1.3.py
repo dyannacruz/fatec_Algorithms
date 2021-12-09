@@ -1,3 +1,5 @@
+#Autora Dyanna Cruz 
+
 #Exercício 3: Em uma compra de supermercado, foram adquiridos os seguintes itens e quantidades:
 #- Arroz → 5kg;
 #- Feijão → 3kg;

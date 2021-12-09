@@ -1,3 +1,5 @@
+#Autora: Dyanna Cruz 
+
 # Exercício 10: Criar uma função que retorne o gráfico de uma função cosseno.
 
 import numpy as np

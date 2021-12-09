@@ -1,3 +1,5 @@
+#Autora: Dyanna Cruz 
+
 # Função criada para o "Trabalho 3.7"
 
 def media(aluno, notas):

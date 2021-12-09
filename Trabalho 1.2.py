@@ -1,3 +1,5 @@
+#Autora: Dyanna Cruz 
+
 # Exercício 2: Escrever código Python para ler através do console as variáveis: “funcionário”, o nome do funcionário de uma empresa;
 # “idade”, a idade do funcionário; “endereço”, o endereço do funcionário; a variável “função”, o cargo do funcionário e a variável 
 # “salário”, o valor do seu salário. Utilizar o comando print para mostrar os resultados no console. Reajustar o salário lido em 20% 

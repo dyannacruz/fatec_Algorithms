@@ -1,3 +1,5 @@
+#Autora: Dyanna Cruz 
+
 # Exercício 1: Criar código Python que inicialize duas listas vazias. Uma delas deverá receber pelo console os nomes relativos a dez alunos de uma escola,
 # e a outra lista deverá receber, também pelo console, as notas desses alunos para as disciplinas de História, Matemática, Português, Geografia e Ciências.
 # Criar uma função que adicione às listas os nomes e as notas, calculando para cada nome, a média das notas. Se a média for maior igual à cinco, a função 
