@@ -1,8 +1,7 @@
-## Algoritmos e Introdução à Computação
+## Algorithms & Computing Introduction
 
-Ementa:
-Conceitos básicos sobre algoritmos e métodos para sua construção. Tipos de dados e variáveis. Estruturas fundamentais de programas: sequencial, condicional e com repetição. Funções. Variáveis compostas homogêneas: vetores e matrizes. Bibliotecas de pacotes prontos na linguagem para os algoritmos de Ciência de Dados, iniciando com os de visualização de dados. Discussões sobre o passado (dados estruturados), presente (Big Data e Ciência de Dados, textos) e futuro da computação (uso intensivo de Inteligência artificial e aprendizado de máquina).
+Content:
+Basic concepts about algorithms and methods for their construction. Types of data and variables. Fundamental structures of programs: sequential, conditional and with repetition. Functions. Homogeneous composite variables: vectors and matrices. Language-ready package libraries for Data Science algorithms, starting with data visualization algorithms. Discussions about the past (structured data), present (Big Data and Data Science, texts) and future of computing (intensive use of artificial intelligence and machine learning).
 
-Projetos realizados:
-Trabalhos 1, 2 & 3
+Projects: 1, 2 & 3
 
